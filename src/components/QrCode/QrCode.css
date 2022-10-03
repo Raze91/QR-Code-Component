@@ -19,6 +19,7 @@ article div {
   margin: 25px auto 10px auto;
 }
 article div h1 {
+  font-size: 21px;
   margin: 0;
   color: hsl(218deg, 44%, 22%);
 }
