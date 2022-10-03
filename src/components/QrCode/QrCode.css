@@ -1,0 +1,28 @@
+article {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: hsl(0deg, 0%, 100%);
+  padding: 15px;
+  border-radius: 20px;
+  font-family: "Outfit", sans-serif;
+  max-width: -webkit-min-content;
+  max-width: -moz-min-content;
+  max-width: min-content;
+}
+article img {
+  width: 285px;
+  border-radius: 10px;
+}
+article div {
+  width: 85%;
+  margin: 25px auto 10px auto;
+}
+article div h1 {
+  margin: 0;
+  color: hsl(218deg, 44%, 22%);
+}
+article div p {
+  font-size: 15px;
+  color: hsl(220deg, 15%, 55%);
+}
